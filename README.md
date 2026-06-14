@@ -5,8 +5,8 @@ Détection en temps réel de l'alphabet en langue des signes américaine (ASL) v
 ---
 
 ## Description
+Ce projet, réalisé dans le cadre du module **Traitement d’Images** à l’**École Nationale des Sciences Appliquées de Tanger (ENSA Tanger)** sous l’encadrement de **M. Lachkar Abdelmounaim**, permet de :
 
-Ce projet permet de :
 - Reconnaître les 26 lettres de l'alphabet ASL (A–Z) + `space`, `del`, `nothing`
 - Construire des mots lettre par lettre devant la caméra
 - Entendre chaque lettre et le mot complet grâce à la synthèse vocale (pyttsx3)
